@@ -24,7 +24,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="code-line" data-line-start=36 data-line-end=37 ><a id=" 14_Guide_to_Run_the_Project_in_Jupyter_Notebook_36"></a>👟 1.4 Guide to Run the Project in Jupyter Notebook</h2>
+<h2 class="code-line" data-line-start=36 data-line-end=37 ><a id=" 14_Guide_to_Run_the_Project_in_Jupyter_Notebook_36"></a>👟 1.5 Guide to Run the Project in Jupyter Notebook</h2>
 <p class="has-line-data" data-line-start="38" data-line-end="39">Follow these steps to execute the project in a Jupyter Notebook environment.</p>
 <h3 class="code-line" data-line-start=40 data-line-end=41 ><a id="Step_1_Set_Up_the_Environment_40"></a><strong>Step 1: Set Up the Environment</strong></h3>
 <ul>
