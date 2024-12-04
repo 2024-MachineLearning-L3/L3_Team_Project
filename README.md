@@ -268,29 +268,23 @@
 <thead>
 <tr>
 <th>Name</th>
-<th>Student ID</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Daye Jang</td>
-<td>2171042</td>
 </tr>
 <tr>
 <td>Hayeon Doh</td>
-<td>2117012</td>
 </tr>
 <tr>
 <td>Sejin Park</td>
-<td>2271026</td>
 </tr>
 <tr>
 <td>Sojeong Lee</td>
-<td>2122044</td>
 </tr>
 <tr>
 <td>Sunho Kwak</td>
-<td>2076017</td>
 </tr>
 </tbody>
 </table>
