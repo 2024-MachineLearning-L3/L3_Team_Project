@@ -263,28 +263,26 @@
 </ul>
 <h2 class="code-line" data-line-start=255 data-line-end=256 ><a id="How_to_Use_255"></a>How to Use</h2>
 <p class="has-line-data" data-line-start="257" data-line-end="258">Use <a href="https://github.com/2024-MachineLearning-L3/L3_Team_Project/blob/main/open-world/multi/open_multi_up_rf_feature26_BEST.ipynb">open_multi_up_rf_feature26_BEST.ipynb</a> for the final and best-performing model configuration, along with visual insights into data and model performance.</p>
+<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id=" 34_Extra_Credit_0"></a>💌 3.4 Extra Credit</h2>
+<h3 class="code-line" data-line-start=2 data-line-end=3 ><a id="extraextra_DF_BESTipynbhttpsgithubcom2024MachineLearningL3L3_Team_Projectblobmainextraextra_DF_BESTipynb_2"></a><a href="https://github.com/2024-MachineLearning-L3/L3_Team_Project/blob/main/extra/extra_DF_BEST.ipynb">extra/extra_DF_BEST.ipynb</a></h3>
+<ul>
+<li class="has-line-data" data-line-start="4" data-line-end="8">
+<p class="has-line-data" data-line-start="4" data-line-end="5"><strong>Purpose</strong>:</p>
+<p class="has-line-data" data-line-start="6" data-line-end="7">Classify monitored website traffic using the Deep Fingerprinting (DF) model.</p>
+</li>
+<li class="has-line-data" data-line-start="8" data-line-end="12">
+<p class="has-line-data" data-line-start="8" data-line-end="9"><strong>Details</strong>:</p>
+<p class="has-line-data" data-line-start="10" data-line-end="11">Parse network data, extract features, and train a neural network for multi-class classification.</p>
+</li>
+<li class="has-line-data" data-line-start="12" data-line-end="15">
+<p class="has-line-data" data-line-start="12" data-line-end="13"><strong>Outcome</strong>:</p>
+<p class="has-line-data" data-line-start="14" data-line-end="15">Achieved high accuracy in identifying website traffic patterns.</p>
+</li>
+</ul>
 <h1 class="code-line" data-line-start=259 data-line-end=260 ><a id="4_Members_259"></a>4. Members</h1>
 <table class="table table-striped table-bordered">
 <thead>
 <tr>
-<th>Name</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Daye Jang</td>
-</tr>
-<tr>
-<td>Hayeon Doh</td>
-</tr>
-<tr>
-<td>Sejin Park</td>
-</tr>
-<tr>
-<td>Sojeong Lee</td>
-</tr>
-<tr>
-<td>Sunho Kwak</td>
-</tr>
+<p class="has-line-data" data-line-start="0" data-line-end="1">Daye Jang, Hayeon Doh, Sejin Park, Sojeong Lee, Sunho Kwak</p>
 </tbody>
 </table>
